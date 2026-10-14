@@ -1,0 +1,18 @@
+# Core
+pyspark==3.5.0
+kafka-python==2.0.2
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Data
+pandas==2.2.0
+pyarrow==15.0.0
+
+# Notebook / exploration
+jupyter==1.0.0
+matplotlib==3.8.2
+
+# Dev
+pytest==8.0.0
+black==24.1.1
+ruff==0.2.1

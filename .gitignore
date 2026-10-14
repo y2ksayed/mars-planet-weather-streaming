@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Spark / output
+data/output/
+data/checkpoints/
+*.parquet
+*.checkpoint
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.DS_Store
+
+# Docker
+kafka-data/
